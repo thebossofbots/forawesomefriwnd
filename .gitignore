@@ -20,8 +20,6 @@ import youtube
 import helperCmd
 import json
 import cmds
-import lvl_config
-import ranks_config
 import bot_conf
 import persona
 ################
